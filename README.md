@@ -1,118 +1,37 @@
-<!---
-Ahmed Hasnain/Ahmed Hasnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# Hi there, Ahmed Hasnain 👋
-  
-I'm an aspiring **Data Scientist** passionate about using data to uncover hidden insights and solve real-world problems. Welcome to my GitHub profile, where I showcase my projects, skills, and interests in the fields of **Data Science**, **Machine Learning**, **Deep Learning**, and more! 
-
-## I'm a Data Scientist! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hasnain-moria/)
-    
----
-
-### 🔭 Current Focus
-I am currently working as a **Data Scientist** and actively looking for new opportunities to contribute my skills. Whether it's using machine learning to optimize processes, developing predictive models, or generating insights from complex datasets, I'm ready to tackle new challenges. 
-
-### 🌱 What I'm Learning
-- Deep diving into **Data Science** techniques, exploring advanced topics like **Computer Vision**, **Natural Language Processing (NLP)**, and **Time Series Analysis**.
-- Expanding my knowledge in **Audio Deep Learning** and **Satellite Image Segmentation**.
-- Continuously improving my skills with **Deep Learning** frameworks such as TensorFlow and PyTorch.
-
-### 🧠 Expertise
-- **Data Analysis**: I have experience in analyzing datasets for business insights and decision-making using tools like **Power BI**, **MS Excel**, and **SQL**.
-- **Machine Learning**: Skilled in building classification, regression, and clustering models using **Scikit-learn** and **XGBoost**.
-- **NLP**: Proficient in **NLP** techniques, including **Tokenization**, **POS Tagging**, **Stemming**, **Lemmatization**, **NER**, and various text representation methods (e.g., **Bag of Words**, **TF-IDF**, **Word Embeddings**).
-- **Transformers and Language Models**: Experienced in working with **Transformers**, including **GPT**, **BERT**, and their variants, for advanced **NLP** tasks like text classification, question answering, and language generation.
-- **Customer Churn Analysis**: Conducted analysis for **customer churn** using **Power BI**, helping businesses make informed decisions.
-- **Chatbot Development**: Built a chatbot using **Dialogflow** and **FastAPI**, handling backend logic, intent management, and MySQL database integration.
-- **Reinforcement Learning**: Familiar with **UCB** and **Thompson Sampling** algorithms, applied to decision-making problems.
-- **Clustering Techniques**: Experience in **K-Means** clustering and **Eclat** for customer segmentation and market basket analysis.
-- **Recommendation Systems**: Worked on recommendation system projects, gaining a deep understanding of user behavior and personalized suggestions.
-
-### 🥅 Goals
-- Conduct research in **Cutting-Edge AI** fields, particularly in **Time Series Forecasting**, **NLP**, and **Generative AI**.
-- Contribute to open-source **AI projects**.
-- Build impactful, real-world applications with **Machine Learning**, **Deep Learning**, and **AI** to solve business problems.
-- Collaborate with AI communities to advance shared learning.
-
-### ⚡ Fun Fact
-I’m a huge coding enthusiast. When I'm not training machine learning models, you'll often find me experimenting with new libraries and frameworks, participating in hackathons, or teaching others about AI.
-
----
-
-## 💻 Technologies and Tools I Use
-
-I am proficient in a variety of programming languages, frameworks, and tools that help me solve complex data science problems and build efficient solutions.
-
-<div align="center">
-    <table align="center">
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/python.png" width="65px"/>
-                <br /> Python
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/Jupyter.png" width="65px"/>
-                <br /> Jupyter Notebooks
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/tensorflow.png" width="65px"/>
-                <br /> TensorFlow
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/scikitlearn.png" width="65px"/>
-                <br /> Scikit Learn
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/fastapi.png" width="65px"/>
-                <br /> FastAPI
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/docker.png" width="65px"/>
-                <br /> Docker
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/pytorch.png" width="65px"/>
-                <br /> PyTorch
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/numpy.png" width="65px"/>
-                <br /> NumPy
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/pandas.png" width="65px"/>
-                <br /> Pandas
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/sql.png" width="65px"/>
-                <br /> SQL
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/power bi.png" width="65px"/>
-                <br /> Power BI
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="./assets/git.png" width="65px"/>
-                <br /> Git
-            </td>
-        </tr>
-    </table>
+<div align="center" style="background: linear-gradient(145deg, #0D0D0D, #1A1A2E); padding: 60px; border-radius: 30px; box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.9);">
+  <img src="https://your-banner-link.com/futuristic-banner.gif" alt="Futuristic Banner" width="100%" style="border-radius: 20px;">
+  <h1 style="font-size: 4.8rem; color: #00FFD1; font-family: 'Fira Code', monospace; margin: 25px 0; text-shadow: 0px 0px 15px #00FFD1;">🚀 Welcome to Ahmed Hasnain's Techverse 🚀</h1>
+  <h3 style="color: #FFFFFF; font-family: 'Roboto', sans-serif; font-weight: lighter;">💡 <span style="color: #FFD700;">Data Science Engineer</span> | <span style="color: #FF6F91;">AI Innovator</span> | <span style="color: #3FA9F5;">Futurist</span></h3>
+  <p style="font-size: 1.5rem; color: #A0A0A0; font-style: italic; margin: 10px 0;">"Redefining AI with next-gen intelligence and real-world applications."</p>
 </div>
 
 ---
 
-Feel free to explore projects in my repositories!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2800&pause=500&color=00FFD1&center=true&vCenter=true&width=1100&height=120&lines=🔍+Building+AI-powered+futures...;🚀+Innovating+at+the+intersection+of+science+and+technology!;✨+Join+me+in+crafting+next-level+intelligence!" alt="Typing Animation">
+</p>
+
+<div align="center">
+  <img src="https://your-animation-link.com/ai-universe.gif" alt="AI Globe Animation" width="92%" style="border-radius: 25px; border: 6px solid #00FFD1; box-shadow: 0px 15px 40px rgba(0, 255, 209, 0.9); margin: 30px 0;">
+</div>
 
 ---
 
-## 🌐 Connect with Me
-- LinkedIn: [Ahmed Hasnain](https://www.linkedin.com/in/ahmed-hasnain-moria/)
-- GitHub: [Ahmed Hasnain](https://github.com/AhmedMoria)
-<!--- Portfolio: [My Portfolio](https://muhammadmoria.github.io/portfolio-new/) --->
+---
+
+## 🌐 **Connect with Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hasnain-moria/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Ahmedmoria" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ---
 
-***Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or chat about anything related to AI, Data Science, or coding.*** 😊
+<p align="center" style="color: #A0A0A0; font-size: 1.3rem; font-style: italic;">
+  🌟 Let's revolutionize the world with AI-driven innovations. Join me on this journey of limitless possibilities! 🚀
+</p>
